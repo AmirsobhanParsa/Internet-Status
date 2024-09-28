@@ -1,0 +1,6 @@
+﻿  NetworkStatus.cpp
+C:\Users\AmirSobhanParsa\source\repos\NetworkStatus\NetworkStatus\icmplib.h(483,44): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  (compiling source file 'NetworkStatus.cpp')
+  
+C:\Users\AmirSobhanParsa\source\repos\NetworkStatus\NetworkStatus\NetworkStatus.cpp(76,34): warning C4101: 'e': unreferenced local variable
+  NetworkStatus.vcxproj -> C:\Users\AmirSobhanParsa\source\repos\NetworkStatus\x64\Debug\NetworkStatus.exe
